@@ -12,7 +12,6 @@ The dataset includes attributes such as **SquareFeet, Bedrooms, Bathrooms, Neigh
 - **Correlation Analysis:** Examining relationships between **SquareFeet, Bedrooms, and Price**.
 - **Confidence Intervals:** Estimating price variations with statistical confidence.
 - **Hypothesis Testing:** Checking if location or property size significantly impacts house prices.
-- **Regression Analysis:** Applying **linear regression** to predict housing prices based on key variables.
 - **Data Visualization:** Bar charts, histograms, box plots, and heatmaps to support insights.
 
 ## 📂 Dataset Description
@@ -32,8 +31,6 @@ The dataset consists of the following attributes:
 2. **Data Cleaning** – Handling missing values, duplicates, and data transformation.
 3. **Exploratory Data Analysis** – Descriptive statistics and data visualization.
 4. **Statistical Testing** – Confidence intervals, correlation, and hypothesis testing.
-5. **Regression Modeling** – Using linear regression to predict house prices.
-6. **Model Evaluation** – Analyzing model accuracy using residual plots and RMSE.
 
 ## 📷 Visualizations & Insights
 ### 🔹 Data Distribution
@@ -60,7 +57,7 @@ The dataset consists of the following attributes:
 - Expanding dataset to include **economic and market factors**.
 
 ## 📌 Conclusion
-This project provides a **statistical approach** to understanding **housing prices**, leveraging **descriptive statistics, hypothesis testing, and regression models**. By analyzing market trends and property attributes, we can gain **valuable insights** into **real estate pricing dynamics**.
+This project provides a statistical approach to understanding housing prices, focusing on descriptive statistics and hypothesis testing. By analyzing market trends and property attributes, we can gain valuable insights into real estate pricing factors.
 
 
 
