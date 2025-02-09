@@ -6,14 +6,14 @@ This project focuses on analyzing housing prices using **statistical methods** a
 The dataset includes attributes such as **SquareFeet, Bedrooms, Bathrooms, Neighborhood, YearBuilt, and Price**, which are analyzed using different statistical models.
 
 ## 📊 Features & Analysis
-- **📌 Data Cleaning & Preprocessing:** Handling missing values, outliers, and data formatting.
-- **📈 Exploratory Data Analysis (EDA):** Understanding distribution, trends, and key metrics in the dataset.
-- **📊 Descriptive Statistics:** Measures of central tendency (mean, median, mode) and variability (standard deviation, IQR).
-- **📉 Correlation Analysis:** Examining relationships between **SquareFeet, Bedrooms, and Price**.
-- **📍 Confidence Intervals:** Estimating price variations with statistical confidence.
-- **📊 Hypothesis Testing:** Checking if location or property size significantly impacts house prices.
-- **📈 Regression Analysis:** Applying **linear regression** to predict housing prices based on key variables.
-- **📊 Data Visualization:** Bar charts, histograms, box plots, and heatmaps to support insights.
+- ** Data Cleaning & Preprocessing:** Handling missing values, outliers, and data formatting.
+- ** Exploratory Data Analysis (EDA):** Understanding distribution, trends, and key metrics in the dataset.
+- ** Descriptive Statistics:** Measures of central tendency (mean, median, mode) and variability (standard deviation, IQR).
+- ** Correlation Analysis:** Examining relationships between **SquareFeet, Bedrooms, and Price**.
+- ** Confidence Intervals:** Estimating price variations with statistical confidence.
+- ** Hypothesis Testing:** Checking if location or property size significantly impacts house prices.
+- ** Regression Analysis:** Applying **linear regression** to predict housing prices based on key variables.
+- ** Data Visualization:** Bar charts, histograms, box plots, and heatmaps to support insights.
 
 ## 📂 Dataset Description
 The dataset consists of the following attributes:
@@ -28,12 +28,12 @@ The dataset consists of the following attributes:
 | **Price** | Final price of the house (target variable). |
 
 ## 📌 How It Works
-1. **📥 Load Data** – The dataset is loaded from a CSV file.
-2. **🧹 Data Cleaning** – Handling missing values, duplicates, and data transformation.
-3. **📊 Exploratory Data Analysis** – Descriptive statistics and data visualization.
-4. **📈 Statistical Testing** – Confidence intervals, correlation, and hypothesis testing.
-5. **📊 Regression Modeling** – Using linear regression to predict house prices.
-6. **📉 Model Evaluation** – Analyzing model accuracy using residual plots and RMSE.
+1. ** Load Data** – The dataset is loaded from a CSV file.
+2. ** Data Cleaning** – Handling missing values, duplicates, and data transformation.
+3. ** Exploratory Data Analysis** – Descriptive statistics and data visualization.
+4. ** Statistical Testing** – Confidence intervals, correlation, and hypothesis testing.
+5. ** Regression Modeling** – Using linear regression to predict house prices.
+6. ** Model Evaluation** – Analyzing model accuracy using residual plots and RMSE.
 
 ## 📷 Visualizations & Insights
 ### 🔹 Data Distribution
@@ -63,20 +63,4 @@ The dataset consists of the following attributes:
 This project provides a **statistical approach** to understanding **housing prices**, leveraging **descriptive statistics, hypothesis testing, and regression models**. By analyzing market trends and property attributes, we can gain **valuable insights** into **real estate pricing dynamics**.
 
 
-## 📂 Folder Structure
-```bash
-📂 Housing-Stats-Analysis/
-│── 📄 README.md
-│── 📂 Data/
-│    ├── housing_price.csv
-│── 📂 Notebooks/
-│    ├── housing_analysis.ipynb
-│── 📂 Visualizations/
-│    ├── heatmap.png
-│    ├── histogram.png
-│── 📂 Reports/
-│    ├── Statistical_Analysis.pdf
-```
 
-## 📝 License
-This project is licensed under the **MIT License** – feel free to use and modify it for educational and research purposes.
