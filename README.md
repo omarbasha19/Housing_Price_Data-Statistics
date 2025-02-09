@@ -33,15 +33,15 @@ The dataset consists of the following attributes:
 4. **Statistical Testing** – Confidence intervals, correlation, and hypothesis testing.
 
 ## 📷 Visualizations & Insights
-### 🔹 Data Distribution
+###  Data Distribution
 - House prices follow a **normal distribution**, peaking around **$200,000 - $250,000**.
 - Price range varies from **$0 to nearly $500,000**.
 
-### 📌 Heatmap Analysis
+###  Heatmap Analysis
 - **SquareFootage vs. Price** → Strong correlation (**0.75**).
 - **Bedrooms and Bathrooms** → Weak correlation (**~0.07 & 0.03**).
 
-### 📊 Box Plot Analysis
+###  Box Plot Analysis
 - Identifies **outliers** and price variations by neighborhood type.
 
 ## 🛠️ Technologies Used
